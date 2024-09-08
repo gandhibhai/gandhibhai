@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gandhibhai
+- 👋 Hi, I’m @hackergandhi
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning GRC
 - 💞️ I’m looking to collaborate on bug hunting 
